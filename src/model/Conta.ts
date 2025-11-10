@@ -50,7 +50,7 @@ export class Conta{
         return this._saldo;
     }
 
-    public set (saldo:number){
+    public set saldo (saldo:number){
         this._saldo = saldo;
     }
 
